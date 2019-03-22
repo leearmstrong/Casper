@@ -113,7 +113,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    background: #060D46 no-repeat center center;
     background-size: cover;
 }
 
@@ -168,6 +168,7 @@ body {
 
 .site-logo {
     max-height: 45px;
+    margin-bottom: 20px;
 }
 
 .site-description {
@@ -245,7 +246,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 21px;
+    height: 24px;
 }
 
 .nav {
@@ -2224,7 +2225,7 @@ Usage (In Ghost editor):
     padding-top: 20px;
     padding-bottom: 60px;
     color: #fff;
-    background: color(var(--darkgrey) l(-15%));
+    background: #060D46;
 }
 
 .site-footer-content {
